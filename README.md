@@ -1,6 +1,6 @@
 # -HEALTH-AWARE-AI
 AI Health Awareness Chatbot
-# Install Git: https://git-scm.com/downloads
+
 
 # Open terminal in your project folder
 cd HealthAware-AI
